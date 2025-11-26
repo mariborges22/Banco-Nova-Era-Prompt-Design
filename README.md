@@ -42,4 +42,6 @@ Este guia apresenta o fluxo de validação em quatro fases, explicando cada etap
 - **Inteligência prática:** Decisões rápidas quando há sinal positivo, fallback útil quando há lacuna, e mensagens específicas que antecipam erros comuns.
 - **Continuidade garantida:** Nenhum beco sem saída; sempre há uma rota para concluir a validação ou escalar para suporte humano.
 
+
+
   
